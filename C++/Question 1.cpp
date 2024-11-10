@@ -10,4 +10,3 @@ int main() {
     cout << n * 10 + m * 5 << endl;
     return 0;
 }
-
